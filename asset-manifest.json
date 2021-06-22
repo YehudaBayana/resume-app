@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/resume-app/static/css/main.34e91920.chunk.css",
+    "main.js": "/resume-app/static/js/main.35aa7f73.chunk.js",
+    "main.js.map": "/resume-app/static/js/main.35aa7f73.chunk.js.map",
+    "runtime-main.js": "/resume-app/static/js/runtime-main.4bf57046.js",
+    "runtime-main.js.map": "/resume-app/static/js/runtime-main.4bf57046.js.map",
+    "static/js/2.8a8a0e8a.chunk.js": "/resume-app/static/js/2.8a8a0e8a.chunk.js",
+    "static/js/2.8a8a0e8a.chunk.js.map": "/resume-app/static/js/2.8a8a0e8a.chunk.js.map",
+    "index.html": "/resume-app/index.html",
+    "static/css/main.34e91920.chunk.css.map": "/resume-app/static/css/main.34e91920.chunk.css.map",
+    "static/js/2.8a8a0e8a.chunk.js.LICENSE.txt": "/resume-app/static/js/2.8a8a0e8a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/resume-app/static/media/barca.05a16ab3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bf57046.js",
+    "static/js/2.8a8a0e8a.chunk.js",
+    "static/css/main.34e91920.chunk.css",
+    "static/js/main.35aa7f73.chunk.js"
+  ]
+}
